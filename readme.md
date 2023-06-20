@@ -25,7 +25,7 @@ To build and run the project, follow these steps:
 2. Navigate to the project directory.
 
 ```
-cd web-crawler-spring-boot
+cd spring-boot-web-crawler
 ```
 
 3. Build the project using Gradle.
